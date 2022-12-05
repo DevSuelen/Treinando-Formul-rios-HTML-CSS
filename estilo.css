@@ -1,0 +1,21 @@
+form{
+    background-color: whitesmoke;
+    margin: 5%;
+    padding: 16%;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+form label, form input, select{
+    width: 100%;
+    display: block;
+    margin-bottom: 5px;
+}
+form input,select{
+    height: 20px;
+    padding-left: 20px;
+    border: 1px solid #333;
+}
