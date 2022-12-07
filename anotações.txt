@@ -1,0 +1,14 @@
+Iniciando projeto do ZERO:
+-> Criar um repositori no git;
+-> Clonar esse repositorio; (git clone HTTPS -> usar no CMD)
+-> Entrar no vscode (code . -> CMD)
+-> Cria documentos;
+-> git add . (Adicionar na pilha);
+-> git commit -m "comentario";
+-> git push origin main.
+
+Comandos extras:
+-> git init (iniciar um repositorio);
+-> git remote add origin HTTPS (adicionar HTTPS no origin);
+-> git checkout -b main.
+-> git status
